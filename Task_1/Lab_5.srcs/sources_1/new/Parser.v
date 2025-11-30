@@ -9,10 +9,7 @@ module Parser(
     output reg [4:0] rs2,
     output reg [6:0] function7
     );
-    
     assign opcode = instruction[6:0];
-
-    // Combinational logic block
     always @(*) begin
         if (opcode == 7'b0110011) begin 
             // R-Type (add, sub, slt, etc.)

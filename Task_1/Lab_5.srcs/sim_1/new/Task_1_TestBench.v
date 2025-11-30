@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 
-module TestBench_Lab11();
+module Task_1_TestBench();
     reg reset;
     reg clk;
-    Lab_11 SCP(clk, reset);
+    Task_1 Sorting_Processor(clk, reset);
     initial begin
     clk = 0;
     reset = 1;
