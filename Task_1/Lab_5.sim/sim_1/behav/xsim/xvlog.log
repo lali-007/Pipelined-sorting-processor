@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/ALU_64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_64
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/ALU_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Imm_Extractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Imm_Extractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab_11
+INFO: [VRFC 10-2458] undeclared symbol Branch, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:59]
+INFO: [VRFC 10-2458] undeclared symbol MemRead, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:59]
+INFO: [VRFC 10-2458] undeclared symbol MemWrite, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:59]
+INFO: [VRFC 10-2458] undeclared symbol RegWrite, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:59]
+INFO: [VRFC 10-2458] undeclared symbol BLT, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:61]
+INFO: [VRFC 10-2458] undeclared symbol val1, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:75]
+INFO: [VRFC 10-2458] undeclared symbol val2, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:76]
+INFO: [VRFC 10-2458] undeclared symbol val3, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:77]
+INFO: [VRFC 10-2458] undeclared symbol val4, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:78]
+INFO: [VRFC 10-2458] undeclared symbol val5, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:79]
+INFO: [VRFC 10-2458] undeclared symbol val6, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:80]
+INFO: [VRFC 10-2458] undeclared symbol val7, assumed default net type wire [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:81]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Multiplexer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplexer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Parser.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Parser
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Program_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/registerFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registerFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sim_1/new/TestBench_Lab11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBench_Lab11

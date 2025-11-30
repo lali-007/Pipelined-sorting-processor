@@ -1,0 +1,18 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.sim/sim_1/behav/xsim/glbl.v,1764518498,verilog,,,,glbl,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sim_1/new/TestBench_Lab11.v,1764518499,verilog,,,,TestBench_Lab11,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/ALU_64.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/ALU_Control.v,,ALU_64,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/ALU_Control.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Adder.v,,ALU_Control,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Adder.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Control_Unit.v,,Adder,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Control_Unit.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Data_Memory.v,,Control_Unit,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Data_Memory.v,1764519001,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Imm_Extractor.v,,Data_Memory,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Imm_Extractor.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Instruction_Memory.v,,Imm_Extractor,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Instruction_Memory.v,1764518969,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v,,Instruction_Memory,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v,1764525349,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Multiplexer.v,,Lab_11,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Multiplexer.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Parser.v,,Multiplexer,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Parser.v,1764525377,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Program_Counter.v,,Parser,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Program_Counter.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/registerFile.v,,Program_Counter,,,,,,,,
+D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/registerFile.v,1764518500,verilog,,D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sim_1/new/TestBench_Lab11.v,,registerFile,,,,,,,,

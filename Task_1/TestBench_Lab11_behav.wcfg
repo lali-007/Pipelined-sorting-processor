@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TestBench_Lab11_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TestBench_Lab11" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="81701fs"></ZoomEndTime>
+      <Cursor1Time time="2500fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="156"></NameColumnWidth>
+      <ValueColumnWidth column_width="86"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="26" />
+   <wvobject fp_name="/TestBench_Lab11/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/PC/PC_in" type="array">
+      <obj_property name="ElementShortName">PC_in[63:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_in[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Instruction_Mem/Instr_Addr" type="array">
+      <obj_property name="ElementShortName">Instr_Addr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Instr_Addr[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Instruction_Mem/Instruction" type="array">
+      <obj_property name="ElementShortName">Instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/RS1" type="array">
+      <obj_property name="ElementShortName">RS1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RS1[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/RS2" type="array">
+      <obj_property name="ElementShortName">RS2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RS2[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/RD" type="array">
+      <obj_property name="ElementShortName">RD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RD[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/ReadData1" type="array">
+      <obj_property name="ElementShortName">ReadData1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">ReadData1[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/ReadData2" type="array">
+      <obj_property name="ElementShortName">ReadData2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">ReadData2[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/RF/WriteData" type="array">
+      <obj_property name="ElementShortName">WriteData[63:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteData[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Imm_Gen/imm_data" type="array">
+      <obj_property name="ElementShortName">imm_data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_data[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/Read_Data" type="array">
+      <obj_property name="ElementShortName">Read_Data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Read_Data[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/ALU/a" type="array">
+      <obj_property name="ElementShortName">a[63:0]</obj_property>
+      <obj_property name="ObjectShortName">a[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/ALU/b" type="array">
+      <obj_property name="ElementShortName">b[63:0]</obj_property>
+      <obj_property name="ObjectShortName">b[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/ALU/ALUOp" type="array">
+      <obj_property name="ElementShortName">ALUOp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/ALU/Result" type="array">
+      <obj_property name="ElementShortName">Result[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Result[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/ALU/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val1" type="array">
+      <obj_property name="ElementShortName">val1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val2" type="array">
+      <obj_property name="ElementShortName">val2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val3" type="array">
+      <obj_property name="ElementShortName">val3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val4" type="array">
+      <obj_property name="ElementShortName">val4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val5" type="array">
+      <obj_property name="ElementShortName">val5[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val5[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val6" type="array">
+      <obj_property name="ElementShortName">val6[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val6[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/Data_Mem/val7" type="array">
+      <obj_property name="ElementShortName">val7[63:0]</obj_property>
+      <obj_property name="ObjectShortName">val7[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench_Lab11/SCP/CU/Branch" type="logic">
+      <obj_property name="ElementShortName">Branch</obj_property>
+      <obj_property name="ObjectShortName">Branch</obj_property>
+   </wvobject>
+</wave_config>

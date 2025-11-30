@@ -1,0 +1,32 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto c1ffbfb57d8241cea785d27b76c06721 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TestBench_Lab11_behav xil_defaultlib.TestBench_Lab11 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val1' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:75]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val2' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:76]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val3' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:77]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val4' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:78]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val5' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:79]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val6' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:80]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'val7' [D:/University/Habib/Sem 3/Computer Architecture/Project/Task_1/Lab_5/Lab_5.srcs/sources_1/new/Lab_11.v:81]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Multiplexer
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.Parser
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.ALU_64
+Compiling module xil_defaultlib.registerFile
+Compiling module xil_defaultlib.Imm_Extractor
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.ALU_Control
+Compiling module xil_defaultlib.Lab_11
+Compiling module xil_defaultlib.TestBench_Lab11
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TestBench_Lab11_behav
