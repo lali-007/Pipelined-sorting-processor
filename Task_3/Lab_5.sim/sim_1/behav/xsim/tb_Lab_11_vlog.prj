@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab_5.srcs/sources_1/new/ALU_64.v" \
+"../../../../Lab_5.srcs/sources_1/new/ALU_Control.v" \
+"../../../../Lab_5.srcs/sources_1/new/Adder.v" \
+"../../../../Lab_5.srcs/sources_1/new/Control_Unit.v" \
+"../../../../Lab_5.srcs/sources_1/new/Data_Memory.v" \
+"../../../../Lab_5.srcs/sources_1/new/EX_MEM_reg.v" \
+"../../../../Lab_5.srcs/sources_1/new/Fowarding_Unit.v" \
+"../../../../Lab_5.srcs/sources_1/new/Hazard_Detection_Unit.v" \
+"../../../../Lab_5.srcs/sources_1/new/ID_EX_reg.v" \
+"../../../../Lab_5.srcs/sources_1/new/IF_ID_reg.v" \
+"../../../../Lab_5.srcs/sources_1/new/Imm_Extractor.v" \
+"../../../../Lab_5.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../Lab_5.srcs/sources_1/new/MEM_WB_reg.v" \
+"../../../../Lab_5.srcs/sources_1/new/Parser.v" \
+"../../../../Lab_5.srcs/sources_1/new/Program_Counter.v" \
+"../../../../Lab_5.srcs/sources_1/new/Task3.v" \
+"../../../../Lab_5.srcs/sources_1/new/registerFile.v" \
+"../../../../Lab_5.srcs/sim_1/new/tb_Lab_11.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

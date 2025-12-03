@@ -2,19 +2,22 @@
 # Vivado v2020.1 (64-bit)
 # SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
 # IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Tue Dec  2 20:05:34 2025
-# Process ID: 17028
-# Current directory: C:/Users/user/Downloads/Task_2/Task_2
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5240 C:\Users\user\Downloads\Task_2\Task_2\Lab_5.xpr
-# Log file: C:/Users/user/Downloads/Task_2/Task_2/vivado.log
-# Journal file: C:/Users/user/Downloads/Task_2/Task_2\vivado.jou
+# Start of session at: Wed Dec  3 13:34:24 2025
+# Process ID: 11640
+# Current directory: D:/Habib University/Third Semester/CA/Pipelined-sorting-processor/Task_2/Task_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17836 D:\Habib University\Third Semester\CA\Pipelined-sorting-processor\Task_2\Task_2\Lab_5.xpr
+# Log file: D:/Habib University/Third Semester/CA/Pipelined-sorting-processor/Task_2/Task_2/vivado.log
+# Journal file: D:/Habib University/Third Semester/CA/Pipelined-sorting-processor/Task_2/Task_2\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/user/Downloads/Task_2/Task_2/Lab_5.xpr
+open_project {D:/Habib University/Third Semester/CA/Pipelined-sorting-processor/Task_2/Task_2/Lab_5.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/user/Downloads/Task_2/Task_2' since last save.
 Scanning sources...
 Finished scanning sources
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2020.1/data/ip'.
-open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:19 . Memory (MB): peak = 1024.473 ; gain = 0.000
+open_project: Time (s): cpu = 00:00:37 ; elapsed = 00:00:25 . Memory (MB): peak = 1025.133 ; gain = 0.000
 update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Dec  3 13:39:19 2025...
